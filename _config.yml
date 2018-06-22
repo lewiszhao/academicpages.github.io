@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yu Zhao"
 title_separator          : "-"
 name                     : &name "Yu Zhao"
-description              : &description "Engineer at Tencent, focus on computer vision and ML."
+description              : &description "Engineer at Tencent, focus on computer vision and machine learning."
 url                      : https://lewiszhao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lewiszhao.github.io"
@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "Yu Zhao"
   avatar           : "profile.png"
-  bio              : "Engineer at Tencent, focus on computer vision and ML."
+  bio              : "Engineer at Tencent, focus on computer vision and machine learning."
   location         :
   employer         :
   googlescholar    : "http://yourfullgooglescholarurl.com"
