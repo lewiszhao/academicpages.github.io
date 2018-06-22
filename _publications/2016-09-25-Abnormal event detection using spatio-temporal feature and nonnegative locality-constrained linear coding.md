@@ -1,5 +1,5 @@
 ---
-title: "Abnormal event detection using spatio-temporal feature and nonnegative locality-constrained linear coding "
+title: "Abnormal event detection using spatio-temporal feature and nonnegative locality-constrained linear coding"
 collection: publications
 permalink: /publication/AADNLLC
 date: 2016-09-25
