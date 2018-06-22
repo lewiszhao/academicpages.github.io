@@ -9,4 +9,3 @@ redirect_from:
 ---
 
 This is Yu Zhao's home on the web.
-Lorem ipsum. 
