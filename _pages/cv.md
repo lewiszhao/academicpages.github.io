@@ -45,19 +45,3 @@ Research Interest
 
 <br>
 Detail CV in Chinese. [CV](http://lewiszhao.github.io/files/cv-zh.pdf)
-  
-;Talks
-;======
-;  <ul>{% for post in site.talks %}
-;    {% include archive-single-talk-cv.html %}
-;  {% endfor %}</ul>
-  
-;Teaching
-;======
-;  <ul>{% for post in site.teaching %}
-;    {% include archive-single-cv.html %}
-;  {% endfor %}</ul>
-  
-;Service and leadership
-;======
-;* Currently signed in to 43 different slack teams
