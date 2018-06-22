@@ -5,5 +5,6 @@ permalink: /publication/AADNLLC
 date: 2016-09-25
 venue: 'IEEE International Conference on Image Processing (ICIP)'
 paperurl: 'http://lewiszhao.github.io/files/AADNLLC.pdf'
-author: "Yu Zhao, Lei Zhou, Keren Fu, Jie Yang"
 ---
+
+**Yu Zhao**, Lei Zhou, Keren Fu, Jie Yang
