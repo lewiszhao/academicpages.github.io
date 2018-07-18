@@ -28,7 +28,7 @@ Skills
 * computer vision
   * face detection
   * abnormal activity detection in video
-* backend technology such Java with SSH/SSI, Go with Shark
+* backend technology such as Java with SSH/SSI, Go with Shark
 * cloud stack
   * MySQL
   * VM  
