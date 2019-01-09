@@ -16,10 +16,13 @@ Education
 
 Work experience
 ======
+* 2018.07 -- NOW:    Faculty at Chongqing University of Education
+  * School of mathematics and information engineering
+  * Duties included: research on CV & ML, teaching
+  
 * 2017.04 -- 2018.06: Engineer at Tencent
   * Tencent cloud department
   * Duties included: R&D for CDB for MySQL
-  
 Skills
 ======
 * machine learning
