@@ -23,6 +23,7 @@ Work experience
 * 2017.04 -- 2018.06: Engineer at Tencent
   * Tencent cloud department
   * Duties included: R&D for CDB for MySQL
+
 Skills
 ======
 * machine learning
